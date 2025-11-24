@@ -12,7 +12,7 @@ export default function LoginPage() {
 
   const API_URL = "https://eager-memes-notice.loca.lt";
 
-  const allowedUserName = "srikanth@gmail.com";
+  const allowedUserName = "rachi";
  const handleSubmit = async (e) => {
   e.preventDefault();
   if (userName !== allowedUserName) {
